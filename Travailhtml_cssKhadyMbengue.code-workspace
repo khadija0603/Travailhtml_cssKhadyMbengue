@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ParlonsCode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Travailhtml_cssKhadyMbengue",
+		"liveServer.settings.port": 5501
+	}
+}
